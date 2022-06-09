@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "start-2022",
+    "slug": "start-2022",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
